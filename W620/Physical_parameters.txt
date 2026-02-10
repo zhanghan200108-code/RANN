@@ -1,0 +1,18 @@
+R_cin=5.35mm
+R_co=8.9mm
+H_c=4mm
+d_w=0.6mm
+w_pll=0.55mm
+w_plo=0.55mm
+w_plin=0.55mm
+r_co=8.35mm
+r_cin=5.90mm
+h_c=2.90mm
+k_Fe=0.5
+h=0.5mm
+w_s=0.2mm
+eps_0 = 8.854187817e-12    # F/m
+eps_rpl=3
+sigma_c = 5.8e7
+mu is listed in the file "mu.csv"
+
